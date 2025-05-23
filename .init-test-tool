@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/weatherpulse-125657-125663/main_container_for_weatherpulse"
+}
